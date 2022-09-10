@@ -1,0 +1,15 @@
+D:\GeekBrains2022\itogblok\itogiblok\task\bin\Debug\net6.0\task.exe
+D:\GeekBrains2022\itogblok\itogiblok\task\bin\Debug\net6.0\task.deps.json
+D:\GeekBrains2022\itogblok\itogiblok\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\GeekBrains2022\itogblok\itogiblok\task\bin\Debug\net6.0\task.dll
+D:\GeekBrains2022\itogblok\itogiblok\task\bin\Debug\net6.0\task.pdb
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.dll
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\refint\task.dll
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.pdb
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\GeekBrains2022\itogblok\itogiblok\task\obj\Debug\net6.0\ref\task.dll
